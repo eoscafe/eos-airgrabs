@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Atidium",
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/atidium.jpg",
+    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/atidium-lg.png",
+    "symbol": "ATD",
+    "account": "eosatidiumio",
+    "action": "signup",
+    "data": {
+      "quantity": "0.0000 ATD",
+      "owner": "XXX"
+    }
+  },
+  {
+    "name": "Poorman Token",
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/poorman.png",
+    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/poorman-lg.png",
+    "symbol": "POOR",
+    "account": "poormantoken",
+    "data": {
+      "quantity": "0.0000 POOR",
+      "owner": "XXX"
+    }
+  },
+  {
+    "name": "RIDL",
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/ridl.png",
+    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/ridl-lg.png",
+    "symbol": "RIDL",
+    "account": "ridlridlcoin",
+    "data": {
+      "claimer": "XXX"
+    }
+  },
+  {
+    "name": "TRYBE",
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/trybe.png",
+    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/trybe-lg.png",
+    "symbol": "TRYBE",
+    "account": "trybenetwork",
+    "data": {
+      "claimer": "XXX"
+    }
+  },
+  {
+    "name": "WIZZ",
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/wizz.png",
+    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/wizz-lg.png",
+    "symbol": "WIZZ",
+    "account": "wizznetwork1",
+    "data": {
+      "quantity": "0.0000 WIZZ",
+      "owner": "XXX"
+    }
+  }
+]
