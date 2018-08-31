@@ -1,4 +1,4 @@
-# 🚀 EOS Airdrops  🚀
+# 🚀 EOS Airgrabs  🚀
 
 | Symbol        | Contract Name |
 | ------------- |:-------------:|
