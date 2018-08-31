@@ -51,7 +51,7 @@
     "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/wizz-lg.png",
     "symbol": "WIZZ",
     "account": "wizznetwork1",
-    'action": "signup",
+    "action": "signup",
     "data": {
       "quantity": "0.0000 WIZZ",
       "owner": "XXX"
