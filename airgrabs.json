@@ -24,17 +24,6 @@
     }
   },
   {
-    "name": "RIDL",
-    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/ridl.png",
-    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/ridl-lg.png",
-    "symbol": "RIDL",
-    "account": "ridlridlcoin",
-    "action": "claim",
-    "data": {
-      "claimer": "XXX"
-    }
-  },
-  {
     "name": "TRYBE",
     "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/trybe.png",
     "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/trybe-lg.png",
