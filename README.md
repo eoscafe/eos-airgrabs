@@ -3,8 +3,8 @@
 | Symbol        | Contract Name |
 | ------------- |:-------------:|
 | ATD           | eosatidiumio  |
+| INF           | infinicoinio  |
 | POOR          | poormantoken  |
-| RIDL          | ridlridlcoin  |
 | TRYBE         | trybenetwork  |
 | WIZZ          | wizznetwork1  |
 
