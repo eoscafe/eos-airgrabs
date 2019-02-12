@@ -3,6 +3,7 @@
 | Symbol        | Contract Name |
 | ------------- |:-------------:|
 | ATD           | eosatidiumio  |
+| XBL           | billionairet  |
 | INF           | infinicoinio  |
 | POOR          | poormantoken  |
 | TRYBE         | trybenetwork  |
