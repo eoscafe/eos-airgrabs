@@ -52,6 +52,18 @@
     }
   },
   {
+    "name": "Emanate",
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/placeholder.png",
+    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/placeholder-lg.png",
+    "symbol": "EMT",
+    "account": "emanateoneos",
+    "action": "claim",
+    "data": {
+      "owner": "XXX",
+      "sym": "EMT"
+    }
+  },
+  {
     "name": "PEOS",
     "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/placeholder.png",
     "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/placeholder-lg.png",
