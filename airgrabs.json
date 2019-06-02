@@ -17,10 +17,9 @@
     "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/dapp-lg.png",
     "symbol": "DAPP",
     "account": "dappairhodl1",
-    "action": "grab",
+    "action": "refresh",
     "data": {
-      "owner": "XXX",
-      "ram_payer": "XXX"
+      "owner": "XXX"
     }
   },
   {
