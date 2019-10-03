@@ -70,5 +70,17 @@
       "owner": "XXX",
       "value": "5000.0000 SOV"
     }
+  },
+  {
+    "name": "BBT",
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/bbt.png",
+    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/bbt-lg.png",
+    "symbol": "BBT",
+    "account": "blockbasetkn",
+    "action": "signup",
+    "data": {
+      "owner": "XXX",
+      "value": "0.0000 BBT"
+    }
   }
 ]
