@@ -80,7 +80,7 @@
     "action": "signup",
     "data": {
       "owner": "XXX",
-      "value": "0.0000 BBT"
+      "quantity": "0.0000 BBT"
     }
   }
 ]
