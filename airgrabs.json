@@ -7,7 +7,7 @@
     "actions": [
       {
         "account": "themarftoken",
-        "action": "open",
+        "name": "open",
         "data": {
           "owner": "XXX",
           "ram_payer": "XXX",
@@ -16,7 +16,7 @@
       },
       {
         "account": "marfairgrabb",
-        "action": "claimtoken",
+        "name": "claimtoken",
         "data": {
           "account_name": "XXX"
         }
@@ -31,7 +31,7 @@
     "actions": [
       {
         "account": "eosatidiumio",
-        "action": "signup",
+        "name": "signup",
         "data": {
           "quantity": "0.0000 ATD",
           "owner": "XXX"
@@ -47,7 +47,7 @@
     "actions": [
       {
         "account": "dappairhodl1",
-        "action": "refresh",
+        "name": "refresh",
         "data": {
           "owner": "XXX"
         }
@@ -62,7 +62,7 @@
     "actions": [
       {
         "account": "nebulatokenn",
-        "action": "open",
+        "name": "open",
         "data": {
           "owner": "XXX",
           "symbol": "4,NEB",
@@ -79,7 +79,7 @@
     "actions": [
       {
         "account": "poormantoken",
-        "action": "signup",
+        "name": "signup",
         "data": {
           "quantity": "0.0000 POOR",
           "owner": "XXX"
@@ -95,7 +95,7 @@
     "actions": [
       {
         "account": "sovmintofeos",
-        "action": "airgrab2",
+        "name": "airgrab2",
         "data": {
           "owner": "XXX",
           "value": "5000.0000 SOV"
@@ -111,7 +111,7 @@
     "actions": [
       {
         "account": "blockbasetkn",
-        "action": "signup",
+        "name": "signup",
         "data": {
           "owner": "XXX",
           "quantity": "0.0000 BBT"
