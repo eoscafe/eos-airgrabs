@@ -134,5 +134,22 @@
 	}
       }
     ]
+  },
+  {
+    "name": "ZEOS",
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/zeos.png",
+    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/zeos.png",
+    "symbol": "ZEOS",
+    "actions": [
+      {
+        "account": "thezeostoken",
+        "name": "open",
+        "data": {
+          "owner": "XXX",
+          "symbol": "4,ZEOS",
+          "ram_payer": "XXX"
+        }
+      }
+    ]
   }
 ]
